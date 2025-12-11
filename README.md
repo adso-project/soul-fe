@@ -126,10 +126,8 @@ npm run preview
 npm run lint
 ```
 
-## 👥 Colaboradores
+##  Colaboradores
 
 Este proyecto es desarrollado por el equipo ADSO Project.
 
-## 📄 Licencia
 
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
