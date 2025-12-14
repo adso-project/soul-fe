@@ -34,8 +34,8 @@ Asegúrate de tener instalado en tu computadora:
 Abre tu terminal y ejecuta:
 
 ```bash
-git clone https://github.com/adso-project/Proyecto-v1.git
-cd Proyecto-v1
+git clone https://github.com/adso-project/soul-fe
+cd soul-fe
 ```
 
 ### Paso 2: Instalar dependencias
